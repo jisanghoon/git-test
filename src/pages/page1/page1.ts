@@ -17,6 +17,8 @@ export class Page1Page {
 
   ionViewDidLoad() {
     console.log('ionViewDidLoad Page1Page');
+    console.log("테스트")
   }
+
 
 }
